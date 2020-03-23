@@ -431,9 +431,11 @@ h4,.h4 {
     margin-top: 22px;
     margin-bottom: 20px;
   }
-
+  .hero-left {
+  	margin-top: 0 !important;
+  }
   .header_area .navbar {
-    background: #fff;
+    background: #a07439;
   }
 
   .header_area .navbar .nav-item.active .nav-link {
@@ -464,7 +466,7 @@ h4,.h4 {
     display: block;
     width: 25px;
     height: 3px;
-    background: #e22104;
+    background: #fff;
     margin: auto;
     margin-bottom: 4px;
     transition: all 400ms linear;
